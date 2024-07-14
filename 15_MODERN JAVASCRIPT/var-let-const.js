@@ -28,12 +28,14 @@ console.log(a)
 
 
 function logName() {
-    const name = 'Nicolas'
+    const name = "Nicolas"
     console.log(name)
 }
 
-const name = 'Pedro'
+const name = "Pedro"
 
+// Here the function const will be printed
 logName(name)
 
+// Here the outside function const will be printed
 console.log(name)

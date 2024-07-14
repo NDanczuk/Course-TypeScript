@@ -1,0 +1,7 @@
+--- TYPE ANNOTATION / TYPE INFERENCE ---
+
+--- ANNOTATION ---
+It's when we define a data type mannualy
+
+--- INFERENCE ---
+It's when TS detects and defines the data type for us

@@ -1,0 +1,4 @@
+--- PRIMITIVE TYPES ---
+
+- number, string & boolean
+- always inserted in lower case
