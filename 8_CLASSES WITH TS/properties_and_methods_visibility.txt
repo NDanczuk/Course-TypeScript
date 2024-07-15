@@ -1,0 +1,8 @@
+--- PUBLIC ---
+Default visibility, can be accessed anywhere
+
+--- PROTECTED ---
+Accessible only in child classes
+
+--- PRIVATE ---
+Only accessible in the origin class
