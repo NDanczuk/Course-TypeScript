@@ -1,0 +1,11 @@
+--- NARROWING ---
+
+What is narrowing?
+
+- Narrowing is a TS resource to identify data types
+
+- It gives a different direction to the program execution, based on what was identifyed
+
+- There are times that the types can be unexpected, ad we want to execute something to each possibility
+
+- This is fundamental to avoid compilator mistakes, iddentifying and solving possible mistakes when coding
