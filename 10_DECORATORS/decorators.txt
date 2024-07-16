@@ -1,0 +1,9 @@
+--- DECORATORS ---
+
+- Decorators can add extra functionalities to classes and functions
+
+- Basicaly we create new functions, that are added starting from a @name
+
+- This function will be called as the decorator is executed
+
+- TWe need to add a new config on tsconfig.json
