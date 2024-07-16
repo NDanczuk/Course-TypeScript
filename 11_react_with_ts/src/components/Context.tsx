@@ -1,0 +1,22 @@
+import React, { useContext } from 'react'
+
+import { AppContext } from '../App'
+
+const Context = () => {
+
+    const details = useContext(AppContext)
+
+  return (
+    <>
+    {details &&  (
+        <div>
+            <h2> Language: {details.language}</h2>
+            <h4>Framework: {details.framework}</h4>
+            <h4>Number of projects: {details.projects}</h4>
+        </div>
+    )}
+    </>
+  )
+}
+
+export default Context
