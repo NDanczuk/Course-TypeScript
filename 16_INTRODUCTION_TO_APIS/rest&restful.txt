@@ -1,0 +1,8 @@
+--- REST & RESTful ---
+
+- REST = Representational State Transfer 
+- Architecture style, it defines how APIs should be created
+- If the API follows all the architecture patterns, it's considered RESTful
+- Some points are: uniform responses, stateless, no response cache
+
+- ibm.com/cloud/learn/rest-apis

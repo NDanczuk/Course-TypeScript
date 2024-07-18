@@ -1,0 +1,5 @@
+--- SPA ---
+
+- Single Page Application
+- When the app's FrontEnd and BackEnd are sepparate 
+- API to the BackEnd

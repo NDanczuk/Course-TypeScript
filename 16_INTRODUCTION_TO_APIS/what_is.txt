@@ -1,0 +1,12 @@
+-- API ---
+
+
+
+--- WHAT IS AN API ---
+
+- API = Application Programing Interface 
+- Communication between applications
+- Doesn't need screens, normally returns .json
+- Independent from FrontEnd
+- Based on request & response
+- We can use Express to create APIs

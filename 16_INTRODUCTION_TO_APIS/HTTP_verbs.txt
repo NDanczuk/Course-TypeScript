@@ -1,0 +1,11 @@
+--- HTTP VERBS ---
+ 
+- GET, POST, PUT, DELETE, PATCH
+- Each one of them represent an action on the API
+- It is very important to always use the correct mehtod 
+
+- GET: get data
+- POST: post/send data
+- PUT: updates all the data in the register
+- DELETE: delete data from the bank
+- PATCH: updates only the data we want
