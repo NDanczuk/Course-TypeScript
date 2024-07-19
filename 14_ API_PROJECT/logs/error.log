@@ -4,3 +4,14 @@
 2024-07-18 16:46:24 - [31merror[39m - [31mConnection unsuccessfull![39m
 2024-07-18 16:46:24 - [31merror[39m - [31mError: MongoServerError: bad auth : authentication failed[39m
 2024-07-18 16:55:14 - [31merror[39m - [31mConnection unsuccessfull![39m
+2024-07-19 08:33:38 - [31merror[39m - [31mConnection unsuccessfull![39m
+2024-07-19 09:52:02 - [31merror[39m - [31mSystem error: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "Movie"[39m
+2024-07-19 09:52:19 - [31merror[39m - [31mSystem error: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "Movie"[39m
+2024-07-19 09:53:23 - [31merror[39m - [31mSystem error: Cast to ObjectId failed for value "66997a3802180e1c2a3521db8" (type string) at path "_id" for model "Movie"[39m
+2024-07-19 09:55:10 - [31merror[39m - [31mSystem error: Cast to ObjectId failed for value "66997a3802180e1c2a3521db8" (type string) at path "_id" for model "Movie"[39m
+2024-07-19 09:55:59 - [31merror[39m - [31mSystem error: Cast to ObjectId failed for value "66997a3802180e1c2a3521db8" (type string) at path "_id" for model "Movie"[39m
+2024-07-19 09:56:02 - [31merror[39m - [31mSystem error: Cast to ObjectId failed for value "66997a3802180e1c2a3521db8" (type string) at path "_id" for model "Movie"[39m
+2024-07-19 09:56:46 - [31merror[39m - [31mSystem error: Cast to ObjectId failed for value "66997a3802180e1c2a3521db8" (type string) at path "_id" for model "Movie"[39m
+2024-07-19 09:57:15 - [31merror[39m - [31mSystem error: Cast to ObjectId failed for value "66997a3802180e1c2a3521db8" (type string) at path "_id" for model "Movie"[39m
+2024-07-19 09:58:10 - [31merror[39m - [31mSystem error: Cast to ObjectId failed for value "66997a3802180e1c2a3521db8" (type string) at path "_id" for model "Movie"[39m
+2024-07-19 10:10:18 - [31merror[39m - [31mSystem error: Cast to ObjectId failed for value "allmovies" (type string) at path "_id" for model "Movie"[39m
